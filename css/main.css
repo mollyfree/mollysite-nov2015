@@ -1,0 +1,100 @@
+/*----------------------------------------------------------------------------- 
+=01 BASE STYLES 
+-----------------------------------------------------------------------------*/
+
+body {
+	color: black;
+	font-size: 100%;
+	line-height: 1.7;
+	background: url('../images/black-glitter.jpg');
+}
+
+.gray {
+	color: #797C81;
+}
+
+h1 {
+	font-size: 16px;
+}
+
+h2 {
+	font-size: 12px;
+}
+
+h3 {
+	font-size: 24px;
+	display: inline;
+}
+
+.highlight {
+	background: #F6EEF1;
+	color: #C01E28;
+	font-size: 15px;
+}
+
+h4 {
+	font-size: 18px;
+	padding: 20px;
+}
+
+p {
+	font-size: 15px;
+}
+
+/*----------------------------------------------------------------------------- 
+=02 LAYOUT
+-----------------------------------------------------------------------------*/
+
+.container {
+	width: 900px;
+	background: white;
+}
+
+.header {
+	color: #797C81;
+	width: 850px;
+	margin: 0 auto 0 auto;
+}
+
+.main {
+	text-align: center;
+	margin: auto;
+}
+
+	.main img {
+		width: 300px;
+		border: 1px solid #625D57;
+		padding: 5px;
+		margin: auto;
+	}
+
+.main2 {
+	text-align: center;
+}
+
+	.main2 img {
+		width: 275px;
+	}
+
+.main3 {
+	text-align: center;
+	padding: 20px;
+	margin: 15px;
+}
+
+	.main3 img {
+		padding: 15px;
+	}
+
+.footer {
+	color: black;
+	background: #E7E7E7;
+	padding: 15px 0 15px 0;
+	margin: -15px;
+	width: 900px;
+}
+
+
+/*----------------------------------------------------------------------------- 
+=02 MAIN STYLES
+-----------------------------------------------------------------------------*/
