@@ -56,33 +56,33 @@ p {
 	margin: 0 auto 0 auto;
 }
 
-.main {
+.main-right {
 	text-align: center;
 	margin: auto;
 }
 
-	.main img {
+	.main-right img {
 		width: 300px;
 		border: 1px solid #625D57;
 		padding: 5px;
 		margin: auto;
 	}
 
-.main2 {
+.main-left {
 	text-align: center;
 }
 
-	.main2 img {
+	.main-left img {
 		width: 275px;
 	}
 
-.main3 {
+.main-center {
 	text-align: center;
 	padding: 20px;
 	margin: 15px;
 }
 
-	.main3 img {
+	.main-center img {
 		padding: 15px;
 	}
 
