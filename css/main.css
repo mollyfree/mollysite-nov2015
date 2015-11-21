@@ -53,8 +53,15 @@ p {
 .header {
 	color: #797C81;
 	width: 850px;
+	background: black;
 	margin: 0 auto 0 auto;
+	text-align: center;
 }
+
+	.header a {
+		color: white;
+		font-size: 12px;
+	}
 
 .main-right {
 	text-align: center;
