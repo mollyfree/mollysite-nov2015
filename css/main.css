@@ -53,13 +53,12 @@ p {
 .header {
 	color: #797C81;
 	width: 850px;
-	background: black;
 	margin: 0 auto 0 auto;
 	text-align: center;
 }
 
 	.header a {
-		color: white;
+		color: black;
 		font-size: 12px;
 	}
 
