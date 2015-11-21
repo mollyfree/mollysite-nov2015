@@ -14,32 +14,33 @@ body {
 }
 
 h1 {
-	font-size: 16px;
+	font-size: 36px;
+	padding: 20px;
 }
 
 h2 {
-	font-size: 12px;
+	font-size: 24px;
+	padding: 20px;
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 18px;
 	display: inline;
 }
 
-.highlight {
-	background: #F6EEF1;
-	color: #C01E28;
-	font-size: 15px;
+h4 {
+	font-size: 16px;
 }
 
-h4 {
-	font-size: 18px;
-	padding: 20px;
+h5 {
+	font-size: 12px;
 }
 
 p {
 	font-size: 15px;
+	text-align: left;
 }
+
 
 /*----------------------------------------------------------------------------- 
 =02 LAYOUT
